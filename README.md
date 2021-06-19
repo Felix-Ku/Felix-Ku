@@ -1,4 +1,4 @@
-### 👋 Hey there 👋
+### 👋 Hey there, I'm Felix. 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Cloud Computing, UX design, Front-end stuff ,and more!
