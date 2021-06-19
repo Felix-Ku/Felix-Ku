@@ -1,9 +1,7 @@
-### Hi there 👋
-
-> Per aspera ad astra
+### 👋 Hey there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Cloud Computing, UX design, Front-end stuff ,and more!
 
 **Visit my blog at: [Onism](https://felix-ku.github.io/)**
 
