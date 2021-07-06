@@ -1,7 +1,8 @@
 ### 👋 Hey there, I'm Felix. 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Cloud Computing, UX design, Front-end stuff, App development, System design and more!
+- 🔭 Striving to become an all-round generalist!
+- 🌱 I’m currently learning Cloud Computing, UX design, Front-end stuff, System design and more!
+- Previous experience in software development, web & app development, product design, graphic design, project management and more!
 
 **Visit my blog at: [Onism](https://felix-ku.github.io/)**
 
