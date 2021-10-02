@@ -2,7 +2,7 @@
 
 <p align="center">
      👋 Hey there, I'm Felix. 👋
-     [![name](Dino.gif)](https://felix-ku.github.io/)
+     <img src="Dino.gif" href="https://felix-ku.github.io/">
 </p>
 
 
