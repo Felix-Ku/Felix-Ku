@@ -1,8 +1,8 @@
 <br />
 
-👋 Hey there, I'm Felix. 👋
+### 👋 Hey there, I'm Felix. 👋
 
-**About me**
+## About me
 
 - 💼 Data Engineer at []()
 
@@ -14,14 +14,14 @@
 
 - 📝 Visit my blog at: [Ikigai](https://felix-ku.github.io/)
 
-**Connect with me**
+## Connect with me
 
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
