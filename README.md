@@ -1,6 +1,9 @@
 <br />
 
-### 👋 Hey there, I'm Felix. 👋
+<p align="center">
+    ### 👋 Hey there, I'm Felix. 👋
+</p>
+
 
 ## About me
 
