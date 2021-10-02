@@ -2,6 +2,7 @@
 
 <p align="center">
      👋 Hey there, I'm Felix. 👋
+     [![name](Dino.gif)](https://felix-ku.github.io/)
 </p>
 
 
@@ -37,4 +38,4 @@
 [website]: https://felix-ku.github.io/
 [linkedin]: https://www.linkedin.com/in/felixku/
 
-[![name](Dino.gif)](https://felix-ku.github.io/)
+
