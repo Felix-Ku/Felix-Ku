@@ -4,7 +4,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Data Engineer at []()
 
 - 📈 Striving to become an all-round generalist!
 
@@ -12,8 +12,7 @@
 
 - ❤️ Previous experience in software development, web & app development, product design, graphic design, project management, game development (Unity) and more!
 
-
-**Visit my blog at: [Ikigai](https://felix-ku.github.io/)**
+- 📝 Visit my blog at: [Ikigai](https://felix-ku.github.io/)**
 
 **Languages and Tools:**  
 
