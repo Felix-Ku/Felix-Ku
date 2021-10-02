@@ -12,7 +12,12 @@
 
 - ❤️ Previous experience in software development, web & app development, product design, graphic design, project management, game development (Unity) and more!
 
-- 📝 Visit my blog at: [Ikigai](https://felix-ku.github.io/)**
+- 📝 Visit my blog at: [Ikigai](https://felix-ku.github.io/)
+
+**Connect with me**
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://felix-ku.github.io/]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/felixku/]
 
 **Languages and Tools:**  
 
