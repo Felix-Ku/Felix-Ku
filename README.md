@@ -16,8 +16,10 @@
 
 **Connect with me**
 
-[![name](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://felix-ku.github.io/)
-[![name](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/felixku/)
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 **Languages and Tools:**  
 
@@ -27,3 +29,6 @@
 | ------------- | ------------- |
 
 [![name](Dino.gif)](https://felix-ku.github.io/)
+
+[website]: https://felix-ku.github.io/
+[linkedin]: https://www.linkedin.com/in/felixku/
