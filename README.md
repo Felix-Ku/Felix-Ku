@@ -7,7 +7,7 @@
 **Visit my blog at: [Ikigai](https://felix-ku.github.io/)**
 
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-Ku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Felix's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Ku&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-Ku&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Felix's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Ku&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![name](Dino.gif)](https://felix-ku.github.io/)
