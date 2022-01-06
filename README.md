@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-     👋 Hey there, I'm Felix. 👋  </br></br>
+     👋 Hey there 👋  </br></br>
      <img src="Dino.gif" href="https://felix-ku.github.io/">
 </p>
 
