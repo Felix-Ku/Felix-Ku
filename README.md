@@ -12,7 +12,8 @@
 
 - ❤️ Previous experience in software development, web & app development, product design, graphic design, project management, game development (Unity) and more!
 
-- 📝 My [blog](https://felix-ku.github.io/)
+- 📝 My [blog](https://www.felixku.com/)
+- 📝 My [blog](https://blog.felixku.com/)
 
 
 ## Languages and Tools:
